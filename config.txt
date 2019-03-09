@@ -1,0 +1,7 @@
+공통 설정 항목
+
+* DataBase
+Oracle 계정/페스워드
+project/1234
+
+* 
