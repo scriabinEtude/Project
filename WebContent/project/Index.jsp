@@ -34,7 +34,7 @@
 
 	<div class="container-fluid">
 		<div class="page-header">
-			<h1>Navigation Bar<small>NavigationBar</small></h1>
+			<h1>Index.jsp<small>t3 project index page</small></h1>
 		</div>
 
 
