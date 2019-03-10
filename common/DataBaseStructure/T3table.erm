@@ -11,7 +11,7 @@
 	</page_setting>
 	<category_index>0</category_index>
 	<zoom>0.75</zoom>
-	<x>18</x>
+	<x>212</x>
 	<y>598</y>
 	<default_color>
 		<r>128</r>
@@ -73,7 +73,7 @@
 			</export_ddl_setting>
 			<export_excel_setting>
 				<category_id>null</category_id>
-				<output_path>WebContent\Ermaster15\T3table.xls</output_path>
+				<output_path>WebContent\common\DataBaseStructure\T3table.xls</output_path>
 				<template></template>
 				<template_path></template_path>
 				<used_default_template_lang>en</used_default_template_lang>
@@ -135,7 +135,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2019-03-06 21:14:59</creation_date>
-			<updated_date>2019-03-09 15:03:04</updated_date>
+			<updated_date>2019-03-10 13:14:52</updated_date>
 			<model_property>
 				<name>프로젝트명</name>
 				<value></value>
@@ -1865,10 +1865,10 @@
 			<connections>
 				<relation>
 					<id>5</id>
-					<source>9</source>
+					<source>0</source>
 					<target>4</target>
-						<source_xp>42</source_xp>
-						<source_yp>0</source_yp>
+						<source_xp>-1</source_xp>
+						<source_yp>-1</source_yp>
 						<target_xp>-1</target_xp>
 						<target_yp>-1</target_yp>
 						<color>
@@ -1887,10 +1887,10 @@
 				</relation>
 				<relation>
 					<id>6</id>
-					<source>0</source>
+					<source>9</source>
 					<target>4</target>
-						<source_xp>-1</source_xp>
-						<source_yp>-1</source_yp>
+						<source_xp>42</source_xp>
+						<source_yp>0</source_yp>
 						<target_xp>-1</target_xp>
 						<target_yp>-1</target_yp>
 						<color>
@@ -1918,7 +1918,7 @@
 				<normal_column>
 					<id>14</id>
 					<referenced_column>46</referenced_column>
-					<relation>5</relation>
+					<relation>6</relation>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -1952,7 +1952,7 @@
 				<normal_column>
 					<id>15</id>
 					<referenced_column>0</referenced_column>
-					<relation>6</relation>
+					<relation>5</relation>
 					<description></description>
 					<unique_key_name></unique_key_name>
 					<logical_name></logical_name>
@@ -2246,7 +2246,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>21</word_id>
+					<word_id>20</word_id>
 					<id>23</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -3541,7 +3541,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>20</word_id>
+					<word_id>21</word_id>
 					<id>55</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -3849,7 +3849,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>22</word_id>
+					<word_id>23</word_id>
 					<id>62</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -3882,7 +3882,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>12</word_id>
+					<word_id>13</word_id>
 					<id>63</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -4504,7 +4504,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>23</word_id>
+					<word_id>22</word_id>
 					<id>76</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -4537,7 +4537,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>13</word_id>
+					<word_id>12</word_id>
 					<id>77</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
